@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mazil.me/](https://www.mazil.me/)
 
-- 📝 I regularly write articles on [https://www.lembog.tech/](https://www.lembog.tech/)
+- 📝 I regularly write blogs on [https://www.lembog.tech/](https://www.lembog.tech/)
 
 - 💬 Ask me about **Full stack web development**
 
