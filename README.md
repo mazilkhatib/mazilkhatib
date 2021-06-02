@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://www.mazil.me/](https://www.mazil.me/)
+- 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://mazilkhatib.github.io/portfolio/](https://mazilkhatib.github.io/portfolio/)
 
 - 📝 I regularly write blogs on [https://www.lembog.tech/](https://www.lembog.tech/)
 
