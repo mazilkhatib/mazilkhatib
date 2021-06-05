@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PWA**
 
-- 🌱 I’m currently learning **Reactjs, MERN Stack**
+- 🌱 I’m currently learning **Reactjs, MERN Stack, UI/UX**
 
 - 👯 I’m looking to collaborate on **Hybrid web application development.**
 
