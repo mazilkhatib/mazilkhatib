@@ -13,7 +13,7 @@
 
 - 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://mazilkhatib.github.io/portfolio/](https://mazilkhatib.github.io/portfolio/)
 
-- 📝 I regularly write blogs on [https://www.lembog.tech/](https://www.lembog.tech/)
+- 📝 I write blogs on [https://www.lembog.tech/](https://www.lembog.tech/)
 
 - 💬 Ask me about **Full stack web development**
 
