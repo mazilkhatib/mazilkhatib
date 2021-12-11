@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://mazilkhatib.github.io/portfolio/](https://mazilkhatib.github.io/portfolio/)
+- 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://www.mazil.xyz/](https://www.mazil.xyz/)
 
 - 📝 I write blogs on [https://www.lembog.tech/](https://www.lembog.tech/)
 
