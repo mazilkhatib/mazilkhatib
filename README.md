@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazil</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate React developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/mazil_khatib" target="blank"><img src="https://img.shields.io/twitter/follow/mazil_khatib?logo=twitter&style=for-the-badge" alt="mazil_khatib" /></a> </p>
 
