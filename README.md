@@ -13,7 +13,7 @@
 
 - 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://www.mazil.xyz/](https://www.mazil.xyz/)
 
-- 📝 I write blogs on [https://blog.lembog.com/](https://blog.lembog.com/)
+- 📝 I write blogs on [https://tech.lembog.com/](https://tech.lembog.com/)
 
 - 💬 Ask me about **Full stack web development**
 
