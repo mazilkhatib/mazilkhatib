@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazil</h1>
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/mazil_khatib" target="blank"><img src="https://img.shields.io/twitter/follow/mazil_khatib?logo=twitter&style=for-the-badge" alt="mazil_khatib" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at [https://www.mazil.xyz/](https://www.mazil.xyz/)
+- 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at (mazil.netlify.app)[https://mazil.netlify.app/]
 
 - 📝 I write blogs on [https://tech.lembog.com/](https://tech.lembog.com/)
 
