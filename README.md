@@ -13,8 +13,6 @@
 
 - 👨‍💻 Visit my latest portfolio(You may see some new updates on my portfolio soon) at (mazil.netlify.app)[https://mazil.netlify.app/]
 
-- 📝 I write blogs on [https://tech.lembog.com/](https://tech.lembog.com/)
-
 - 💬 Ask me about **Full stack web development**
 
 <h3 align="left">Connect with me:</h3>
