@@ -118,9 +118,7 @@ a{
 .githublogo{
   filter: brightness(100);
 }
-
 </style>
-
 <script>
   container = document.getElementById('globeCanvas');
 
