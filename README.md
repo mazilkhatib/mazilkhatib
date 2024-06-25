@@ -18,7 +18,6 @@
 - 👨🏽‍💻 I’m currently working on **PWA**;
 - 🌱 I’m currently learning **Reactjs, MERN Stack, UI/UX**;
 - 👯 I’m looking to collaborate on **Hybrid web application development**;
-- 🤔 I’m looking for help with **React**;
 - 💬 Ask me about **Full stack web development**;
 - 📫 How to reach me: [mazil.netlify.app](https://mazil.netlify.app/);
 
