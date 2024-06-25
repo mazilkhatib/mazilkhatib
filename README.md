@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Mazil 👋, a Passionate Developer from India 🚀
+## Hi, I'm Mazil 👋, a Passionate Fullstack Developer 🚀
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mazilkhatib)
