@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Reactjs, MERN Stack, UI/UX**;
 - 👯 I’m looking to collaborate on **Hybrid web application development**;
 - 💬 Ask me about **Full stack web development**;
-- 📫 How to reach me: [mazil.info](https://mazil.info/);
+- 📫 How to reach me: [mazil.info](https://mazil.link/);
 
 **Languages and Tools:** 
 
